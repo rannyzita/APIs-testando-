@@ -1,0 +1,16 @@
+{
+  "name": "controledeatendimentos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  }
+}
